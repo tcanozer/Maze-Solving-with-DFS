@@ -6,9 +6,10 @@ Design the algorithm that finds the way from the start cell to the end cell on t
 
 Maze:
 
-![Alt text](relative/path/to/maze.png?raw=true "Maze")
-
-
+<img src="https://github.com/tcanozer/Maze-Solving-with-DFS/blob/main/maze.png" width="600">
 
 
 Output:
+
+
+<img src="https://github.com/tcanozer/Maze-Solving-with-DFS/blob/main/output.png" width="600">
