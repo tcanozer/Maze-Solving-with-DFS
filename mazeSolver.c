@@ -187,7 +187,7 @@ void findPath(STACK *s, int x, int y){                      //deep first search
     waitALittleBit();
     
     if((x == endPoint.x) && (y == endPoint.y)){
-        printf("\n ÇIKIŞA ULAŞILDI \n");
+        printf("\n EXIT HAS BEEN REACHED \n");
    //     printf("\n Total Score : %d \n",totalScore);
          exit(1) ;
     }
